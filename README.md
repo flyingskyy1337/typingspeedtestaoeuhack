@@ -1,3 +1,7 @@
+# How it works in action
+
+<img src="https://raw.githubusercontent.com/flyingskyy1337/typingspeedtestaoeuhack/main/2021-05-05%2016-18-29.gif"/>
+
 # typingspeedtestaoeuhack
 haha WPM go BRRRRR
 
