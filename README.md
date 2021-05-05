@@ -2,6 +2,7 @@
 haha WPM go BRRRRR
 
 ez 1k+ wpm
+this site also calculates with cpm (characters per minute)
 https://typing-speed-test.aoeu.eu/
 
 ```javascript
