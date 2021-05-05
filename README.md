@@ -1,7 +1,8 @@
 # typingspeedtestaoeuhack
 haha WPM go BRRRRR
 
-ya boi makes wpm ez
+ez 1k wpm
+https://typing-speed-test.aoeu.eu/
 
 ```javascript
 setInterval(function(){
